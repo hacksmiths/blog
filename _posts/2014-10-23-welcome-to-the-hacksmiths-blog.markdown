@@ -14,10 +14,16 @@ Hacksmiths now has a blog! We're hosted on Github Pages, and Jekyll is our blogg
 To submit a blog post:
 
 {% highlight javascript %}
-step[0] = "I hope you all went to the git workshop! If not, check out try.github.io, that'll set you right.";
-step[1] = "Write your blog post! Markdown formats it easily, and you'll have to write the Jekyll header. Check out other blog posts in the repo to see how that's done - it's very straightforward indeed";
+step[0] = "I hope you all went to the git workshop! If not, check out try.github.io,
+ that'll set you right.";
+step[1] = "Write your blog post! Markdown formats it easily, and you'll have to 
+write the Jekyll header. Check out other blog posts in the repo to see how that's 
+done - it's very straightforward indeed";
 step[2] = "Submit a pull request containing your blog post";
-step[3] = "Wait for an admin to approve your post, and it'll appear on the site! But keep an eye on your pull request - if there's a problem with it we'll let you know in the pull request discussion thread on Github, and you can submit again when the issue is resolved.";
+step[3] = "Wait for an admin to approve your post, and it'll appear on the site! But
+keep an eye on your pull request - if there's a problem with it we'll let you know 
+in the pull request discussion thread on Github, and you can submit again when the 
+issue is resolved.";
 {% endhighlight %}
 We're looking forward to seeing your posts!
 
